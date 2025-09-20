@@ -115,7 +115,7 @@ pip (Python package installer)
 
 ## Clone & Run the Flutter App
 Clone the repository:
-git clone [https://github.com/mohamedazzam36/CVision.git](https://github.com/fatmamamdouh/CVision.git)
+git clone [https://github.com/fatmamamdouh/CVision.git](https://github.com/fatmamamdouh/CVision.git)
 
 cd CVision
 
